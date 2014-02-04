@@ -1,0 +1,97 @@
+@font-face {
+	font-family: 'voipgrid-icons';
+	src:url('fonts/voipgrid-icons.eot');
+	src:url('fonts/voipgrid-icons.eot?#iefix') format('embedded-opentype'),
+		url('fonts/voipgrid-icons.ttf') format('truetype'),
+		url('fonts/voipgrid-icons.woff') format('woff'),
+		url('fonts/voipgrid-icons.svg#voipgrid-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'voipgrid-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sip-analysis:before {
+	content: "\e600";
+}
+.icon-voip-trunk:before {
+	content: "\e601";
+}
+.icon-area-routing:before {
+	content: "\e602";
+}
+.icon-sounds:before {
+	content: "\e603";
+}
+.icon-voicemail:before {
+	content: "\e604";
+}
+.icon-fixed-mobile:before {
+	content: "\e605";
+}
+.icon-callgroup:before {
+	content: "\e606";
+}
+.icon-voip-account:before {
+	content: "\e607";
+}
+.icon-phonenumber:before {
+	content: "\e608";
+}
+.icon-http-routing:before {
+	content: "\e609";
+}
+.icon-klik-en-bel:before {
+	content: "\e60a";
+}
+.icon-call-me-now:before {
+	content: "\e60b";
+}
+.icon-area-group:before {
+	content: "\e60c";
+}
+.icon-filter:before {
+	content: "\e60d";
+}
+.icon-listen-in:before {
+	content: "\e60e";
+}
+.icon-pickup-group:before {
+	content: "\e60f";
+}
+.icon-conference-call:before {
+	content: "\e610";
+}
+.icon-queue:before {
+	content: "\e611";
+}
+.icon-ivr:before {
+	content: "\e612";
+}
+.icon-fax-outbound:before {
+	content: "\e613";
+}
+.icon-fax-inbound:before {
+	content: "\e614";
+}
+.icon-music-on-hold:before {
+	content: "\e615";
+}
+.icon-messages:before {
+	content: "\e616";
+}
+.icon-opening-hours:before {
+	content: "\e617";
+}
