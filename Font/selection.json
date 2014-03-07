@@ -18,7 +18,9 @@
 				"code": 58880,
 				"name": "sip-analysis",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 0
 		},
 		{
 			"icon": {
@@ -37,7 +39,9 @@
 				"code": 58881,
 				"name": "voip-trunk",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 1
 		},
 		{
 			"icon": {
@@ -56,7 +60,9 @@
 				"code": 58882,
 				"name": "area-routing",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 2
 		},
 		{
 			"icon": {
@@ -75,7 +81,9 @@
 				"code": 58883,
 				"name": "sounds",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 3
 		},
 		{
 			"icon": {
@@ -94,7 +102,9 @@
 				"code": 58884,
 				"name": "voicemail",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 4
 		},
 		{
 			"icon": {
@@ -114,7 +124,9 @@
 				"code": 58885,
 				"name": "fixed-mobile",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 5
 		},
 		{
 			"icon": {
@@ -133,7 +145,9 @@
 				"code": 58886,
 				"name": "callgroup",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 6
 		},
 		{
 			"icon": {
@@ -152,7 +166,9 @@
 				"code": 58887,
 				"name": "voip-account",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 7
 		},
 		{
 			"icon": {
@@ -171,7 +187,9 @@
 				"code": 58888,
 				"name": "phonenumber",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 8
 		},
 		{
 			"icon": {
@@ -195,7 +213,9 @@
 				"code": 58889,
 				"name": "http-routing",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 9
 		},
 		{
 			"icon": {
@@ -214,7 +234,9 @@
 				"code": 58890,
 				"name": "klik-en-bel",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 10
 		},
 		{
 			"icon": {
@@ -233,7 +255,9 @@
 				"code": 58891,
 				"name": "call-me-now",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 11
 		},
 		{
 			"icon": {
@@ -252,7 +276,9 @@
 				"code": 58892,
 				"name": "area-group",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 12
 		},
 		{
 			"icon": {
@@ -271,7 +297,9 @@
 				"code": 58893,
 				"name": "filter",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 13
 		},
 		{
 			"icon": {
@@ -290,7 +318,9 @@
 				"code": 58894,
 				"name": "listen-in",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 14
 		},
 		{
 			"icon": {
@@ -309,7 +339,9 @@
 				"code": 58895,
 				"name": "pickup-group",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 15
 		},
 		{
 			"icon": {
@@ -328,7 +360,9 @@
 				"code": 58896,
 				"name": "conference-call",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 16
 		},
 		{
 			"icon": {
@@ -347,7 +381,9 @@
 				"code": 58897,
 				"name": "queue",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 17
 		},
 		{
 			"icon": {
@@ -366,7 +402,9 @@
 				"code": 58898,
 				"name": "ivr",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 18
 		},
 		{
 			"icon": {
@@ -385,7 +423,9 @@
 				"code": 58899,
 				"name": "fax-outbound",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 19
 		},
 		{
 			"icon": {
@@ -404,7 +444,9 @@
 				"code": 58900,
 				"name": "fax-inbound",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 20
 		},
 		{
 			"icon": {
@@ -423,7 +465,9 @@
 				"code": 58901,
 				"name": "music-on-hold",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 21
 		},
 		{
 			"icon": {
@@ -442,7 +486,9 @@
 				"code": 58902,
 				"name": "messages",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 22
 		},
 		{
 			"icon": {
@@ -461,7 +507,30 @@
 				"code": 58903,
 				"name": "opening-hours",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 1,
+			"iconIdx": 23
+		},
+		{
+			"icon": {
+				"paths": [
+					"M260.384 423.712h-57.568v73.664h56.032c2.688 0 10.368 0 18.016-2.688 21.888-7.296 22.656-28 22.656-34.912 0.032-35.296-27.232-36.064-39.136-36.064zM512 0c-282.784 0-512 229.216-512 512s229.216 512 512 512 512-229.216 512-512-229.216-512-512-512zM299.552 644.384l-54.112-96.704h-42.24v96.704h-68.288v-270.944h122.048c7.648 0 15.328 0 23.040 0.384 12.288 0.768 55.264 3.456 76.384 42.208 3.808 7.296 10.72 23.040 10.72 45.312 0 30.304-11.872 46.432-21.088 55.264-3.84 3.84-8.448 7.328-12.672 9.984-4.992 2.688-10.752 5.376-21.888 9.6l62.56 108.192h-74.464zM625.152 644.384h-212.608v-270.944h200.32v52.192h-132.768v49.504h123.936v51.424h-123.936v64.448h145.056v53.376zM781.376 652.448c-9.6 0-31.84-1.152-55.264-11.52-71.36-32.224-74.848-110.88-74.848-132.384 0-16.512 1.92-59.104 32.992-96.704 12.288-15.328 43.008-46.816 98.24-46.816 36.48 0 71.776 14.976 95.552 42.208 9.984 11.52 16.128 23.424 18.816 28l-53.344 26.496c-3.84-7.68-6.528-11.904-8.832-14.976-4.96-7.296-21.472-26.080-49.12-26.080-7.648 0-25.696 1.536-41.056 16.128-11.136 10.368-25.728 32.992-25.728 70.208 0 3.456 0 9.984 1.152 18.432 4.64 37.216 20.704 54.080 35.68 62.56 4.992 3.072 15.36 7.648 29.952 7.648 38.016 0 52.608-29.536 58.72-39.904l53.76 27.264c-8.064 12.288-13.824 20.352-17.664 24.928-12.256 13.792-46.048 44.512-99.008 44.512z"
+				],
+				"grid": 0,
+				"tags": [
+					"call-record"
+				]
+			},
+			"properties": {
+				"order": 25,
+				"id": 0,
+				"prevSize": 32,
+				"code": 58904,
+				"name": "call-record",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 0
 		}
 	],
 	"height": 1024,
