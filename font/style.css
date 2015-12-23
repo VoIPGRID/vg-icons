@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'voipgrid-icons';
-	src:url('fonts/voipgrid-icons.eot?8cf5zf');
-	src:url('fonts/voipgrid-icons.eot?#iefix8cf5zf') format('embedded-opentype'),
-		url('fonts/voipgrid-icons.ttf?8cf5zf') format('truetype'),
-		url('fonts/voipgrid-icons.woff?8cf5zf') format('woff'),
-		url('fonts/voipgrid-icons.svg?8cf5zf#voipgrid-icons') format('svg');
+	src:url('fonts/voipgrid-icons.eot?q74poz');
+	src:url('fonts/voipgrid-icons.eot?q74poz#iefix') format('embedded-opentype'),
+		url('fonts/voipgrid-icons.ttf?q74poz') format('truetype'),
+		url('fonts/voipgrid-icons.woff?q74poz') format('woff'),
+		url('fonts/voipgrid-icons.svg?q74poz#voipgrid-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,21 @@ i {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.vg-icon-arrow-left:before {
+	content: "\e908";
+}
+.vg-icon-arrow-right:before {
+	content: "\e909";
+}
+.vg-icon-arrow-down:before {
+	content: "\e902";
+}
+.vg-icon-arrow-up:before {
+	content: "\e903";
+}
+.vg-icon-options:before {
+	content: "\e62e";
+}
 .vg-icon-variable:before {
 	content: "\e62b";
 }
@@ -71,7 +86,7 @@ i {
 .vg-icon-callgroup:before {
 	content: "\e60a";
 }
-.vg-icon-incoming-fax:before {
+.vg-icon-fax:before {
 	content: "\e60b";
 }
 .vg-icon-outgoing-fax:before {
@@ -89,7 +104,7 @@ i {
 .vg-icon-mail:before {
 	content: "\e610";
 }
-.vg-icon-vg-icon-net-number-group:before {
+.vg-icon-areagroup:before {
 	content: "\e611";
 }
 .vg-icon-notition:before {
@@ -173,3 +188,22 @@ i {
 .vg-icon-play-audio:before {
 	content: "\e641";
 }
+.vg-icon-pause-audio:before {
+	content: "\e900";
+}
+.vg-icon-stop-audio:before {
+	content: "\e901";
+}
+.vg-icon-previous:before {
+	content: "\e904";
+}
+.vg-icon-next:before {
+	content: "\e905";
+}
+.vg-icon-backward:before {
+	content: "\e906";
+}
+.vg-icon-forward:before {
+	content: "\e907";
+}
+
