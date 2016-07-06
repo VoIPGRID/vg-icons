@@ -1,0 +1,28 @@
+{
+  "name": "vg-icons",
+  "description": "VoIPGRID icon pack.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/voipgrid/icons",
+  "author": {
+    "name": "Spindle",
+    "url": "https://wearespindle.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voipgrid/icons"
+  },
+  "bugs": {
+    "url": "https://github.com/voipgrid/icons/issues"
+  },
+  "keywords": [
+    "form",
+    "tabs",
+    "widgets"
+  ],
+  "files": [
+    "font/fonts/*",
+    "sass/*.scss",
+    "LICENSE"
+  ]
+}
