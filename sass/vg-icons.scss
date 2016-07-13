@@ -12,44 +12,8 @@ $vg-icons-path: "font/vg-icons" !default;
     font-style: normal;
 }
 
-.vg-icon-arrow-left:before {
-    content: "\e908";
-}
-
-.vg-icon-arrow-right:before {
-    content: "\e909";
-}
-
-.vg-icon-arrow-down:before {
-    content: "\e902";
-}
-
-.vg-icon-arrow-up:before {
-    content: "\e903";
-}
-
-.vg-icon-options:before {
-    content: "\e62e";
-}
-
-.vg-icon-variable:before {
-    content: "\e62b";
-}
-
-.vg-icon-variabledestination:before {
-    content: "\e62d";
-}
-
-.vg-icon-setcallrecording:before {
-    content: "\e612";
-}
-
-.vg-icon-extension:before {
-    content: "\e628";
-}
-
-.vg-icon-variablecallername:before {
-    content: "\e61e";
+.vg-icon-user:before {
+    content: "\e620";
 }
 
 .vg-icon-listen:before {
@@ -60,7 +24,7 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e601";
 }
 
-.vg-icon-fixeddestination:before {
+.vg-icon-phone-forwarding:before {
     content: "\e602";
 }
 
@@ -72,7 +36,7 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e604";
 }
 
-.vg-icon-call-person:before {
+.vg-icon-call-me:before {
     content: "\e605";
 }
 
@@ -92,23 +56,23 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e609";
 }
 
-.vg-icon-callgroup:before {
+.vg-icon-dialgroup:before {
     content: "\e60a";
 }
 
-.vg-icon-fax:before {
+.vg-icon-fax-in:before {
     content: "\e60b";
 }
 
-.vg-icon-outgoing-fax:before {
+.vg-icon-fax-out:before {
     content: "\e60c";
 }
 
-.vg-icon-crm-popup:before {
+.vg-icon-folder_client:before {
     content: "\e60d";
 }
 
-.vg-icon-folder-in:before {
+.vg-icon-folder_in:before {
     content: "\e60e";
 }
 
@@ -120,15 +84,19 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e610";
 }
 
-.vg-icon-areagroup:before {
+.vg-icon-netnumber-group:before {
     content: "\e611";
 }
 
-.vg-icon-notition:before {
+.vg-icon-recording:before {
+    content: "\e612";
+}
+
+.vg-icon-note:before {
     content: "\e613";
 }
 
-.vg-icon-ivr:before {
+.vg-icon-optionmenu:before {
     content: "\e614";
 }
 
@@ -140,7 +108,7 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e616";
 }
 
-.vg-icon-phone-dial-buttons:before {
+.vg-icon-phone-number:before {
     content: "\e617";
 }
 
@@ -148,19 +116,19 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e618";
 }
 
-.vg-icon-pick-up-group:before {
+.vg-icon-pickup-group:before {
     content: "\e619";
 }
 
-.vg-icon-phone-mobile:before {
+.vg-icon-solid-mobile:before {
     content: "\e61a";
 }
 
-.vg-icon-recording:before {
+.vg-icon-sound-notition:before {
     content: "\e61b";
 }
 
-.vg-icon-sound:before {
+.vg-icon-sounds:before {
     content: "\e61c";
 }
 
@@ -168,36 +136,35 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e61d";
 }
 
-.vg-icon-trashcan:before {
-    content: "\e61f";
+.vg-icon-variablecallername:before {
+    content: "\e61e";
 }
 
-.vg-icon-user:before,
-.vg-icon-userdestination:before {
-    content: "\e620";
+.vg-icon-trashcan:before {
+    content: "\e61f";
 }
 
 .vg-icon-voicemail:before {
     content: "\e621";
 }
 
-.vg-icon-phoneaccount:before {
+.vg-icon-voipaccount:before {
     content: "\e622";
 }
 
-.vg-icon-trunkaccount:before {
+.vg-icon-voiptrunk:before {
     content: "\e623";
 }
 
-.vg-icon-musiconhold:before {
+.vg-icon-wait-music:before {
     content: "\e624";
 }
 
-.vg-icon-queue:before {
+.vg-icon-waitingline:before {
     content: "\e625";
 }
 
-.vg-icon-http:before {
+.vg-icon-webhook:before {
     content: "\e626";
 }
 
@@ -205,16 +172,32 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e627";
 }
 
+.vg-icon-extension:before {
+    content: "\e628";
+}
+
 .vg-icon-areacode:before {
     content: "\e629";
 }
 
-.vg-icon-sounds:before {
+.vg-icon-sounds2:before {
     content: "\e62a";
+}
+
+.vg-icon-variable:before {
+    content: "\e62b";
 }
 
 .vg-icon-fixed-mobile:before {
     content: "\e62c";
+}
+
+.vg-icon-variable2:before {
+    content: "\e62d";
+}
+
+.vg-icon-options:before {
+    content: "\e62e";
 }
 
 .vg-icon-openinghours:before {
@@ -229,30 +212,46 @@ $vg-icons-path: "font/vg-icons" !default;
     content: "\e640";
 }
 
-.vg-icon-play-audio:before {
+.vg-icon-play:before {
     content: "\e641";
 }
 
-.vg-icon-pause-audio:before {
-    content: "\e900";
-}
-
-.vg-icon-stop-audio:before {
+.vg-icon-pause:before {
     content: "\e901";
 }
 
-.vg-icon-previous:before {
+.vg-icon-stop:before {
+    content: "\e902";
+}
+
+.vg-icon-arrow-down:before {
+    content: "\e903";
+}
+
+.vg-icon-arrow-up:before {
     content: "\e904";
 }
 
-.vg-icon-next:before {
+.vg-icon-previous:before {
     content: "\e905";
 }
 
-.vg-icon-backward:before {
+.vg-icon-next:before {
     content: "\e906";
 }
 
-.vg-icon-forward:before {
+.vg-icon-backward:before {
     content: "\e907";
+}
+
+.vg-icon-forward:before {
+    content: "\e908";
+}
+
+.vg-icon-arrow-left:before {
+    content: "\e909";
+}
+
+.vg-icon-arrow-right:before {
+    content: "\e90a";
 }
