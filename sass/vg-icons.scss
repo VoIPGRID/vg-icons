@@ -12,7 +12,8 @@ $vg-icons-path: "font/vg-icons" !default;
     font-style: normal;
 }
 
-.vg-icon-user:before {
+.vg-icon-user:before,
+.vg-icon-userdestination:before {
     content: "\e620";
 }
 .vg-icon-listen:before {
