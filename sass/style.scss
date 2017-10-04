@@ -1,0 +1,324 @@
+@import "variables";
+
+@font-face {
+  font-family: 'voipgrid-icons';
+  src:
+    url('#{$icomoon-font-path}/voipgrid-icons.ttf?lq3xaf') format('truetype'),
+    url('#{$icomoon-font-path}/voipgrid-icons.woff?lq3xaf') format('woff'),
+    url('#{$icomoon-font-path}/voipgrid-icons.svg?lq3xaf#voipgrid-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.vg-icon-call-notification {
+  &:before {
+    content: $vg-icon-call-notification;
+  }
+}
+.vg-icon-user,
+.vg-icon-userdestination {
+  &:before {
+    content: $vg-icon-user;
+  }
+}
+.vg-icon-listen {
+  &:before {
+    content: $vg-icon-listen;
+  }
+}
+.vg-icon-filter {
+  &:before {
+    content: $vg-icon-filter;
+  }
+}
+.vg-icon-fixeddestination {
+  &:before {
+    content: $vg-icon-fixeddestination;
+  }
+}
+.vg-icon-jump {
+  &:before {
+    content: $vg-icon-jump;
+  }
+}
+.vg-icon-calender {
+  &:before {
+    content: $vg-icon-calender;
+  }
+}
+.vg-icon-call-person {
+  &:before {
+    content: $vg-icon-call-person;
+  }
+}
+.vg-icon-case {
+  &:before {
+    content: $vg-icon-case;
+  }
+}
+.vg-icon-click-to-dial {
+  &:before {
+    content: $vg-icon-click-to-dial;
+  }
+}
+.vg-icon-clipboard {
+  &:before {
+    content: $vg-icon-clipboard;
+  }
+}
+.vg-icon-conference {
+  &:before {
+    content: $vg-icon-conference;
+  }
+}
+.vg-icon-callgroup {
+  &:before {
+    content: $vg-icon-callgroup;
+  }
+}
+.vg-icon-fax {
+  &:before {
+    content: $vg-icon-fax;
+  }
+}
+.vg-icon-outgoing-fax {
+  &:before {
+    content: $vg-icon-outgoing-fax;
+  }
+}
+.vg-icon-crm-popup {
+  &:before {
+    content: $vg-icon-crm-popup;
+  }
+}
+.vg-icon-folder-in {
+  &:before {
+    content: $vg-icon-folder-in;
+  }
+}
+.vg-icon-home {
+  &:before {
+    content: $vg-icon-home;
+  }
+}
+.vg-icon-mail {
+  &:before {
+    content: $vg-icon-mail;
+  }
+}
+.vg-icon-areagroup {
+  &:before {
+    content: $vg-icon-areagroup;
+  }
+}
+.vg-icon-setcallrecording {
+  &:before {
+    content: $vg-icon-setcallrecording;
+  }
+}
+.vg-icon-notition {
+  &:before {
+    content: $vg-icon-notition;
+  }
+}
+.vg-icon-ivr {
+  &:before {
+    content: $vg-icon-ivr;
+  }
+}
+.vg-icon-paperclip {
+  &:before {
+    content: $vg-icon-paperclip;
+  }
+}
+.vg-icon-person {
+  &:before {
+    content: $vg-icon-person;
+  }
+}
+.vg-icon-phone-dial-buttons {
+  &:before {
+    content: $vg-icon-phone-dial-buttons;
+  }
+}
+.vg-icon-phone-rings {
+  &:before {
+    content: $vg-icon-phone-rings;
+  }
+}
+.vg-icon-pick-up-group {
+  &:before {
+    content: $vg-icon-pick-up-group;
+  }
+}
+.vg-icon-phone-mobile {
+  &:before {
+    content: $vg-icon-phone-mobile;
+  }
+}
+.vg-icon-recording {
+  &:before {
+    content: $vg-icon-recording;
+  }
+}
+.vg-icon-sound {
+  &:before {
+    content: $vg-icon-sound;
+  }
+}
+.vg-icon-tag {
+  &:before {
+    content: $vg-icon-tag;
+  }
+}
+.vg-icon-variablecallername {
+  &:before {
+    content: $vg-icon-variablecallername;
+  }
+}
+.vg-icon-trashcan {
+  &:before {
+    content: $vg-icon-trashcan;
+  }
+}
+.vg-icon-voicemail {
+  &:before {
+    content: $vg-icon-voicemail;
+  }
+}
+.vg-icon-phoneaccount {
+  &:before {
+    content: $vg-icon-phoneaccount;
+  }
+}
+.vg-icon-trunkaccount {
+  &:before {
+    content: $vg-icon-trunkaccount;
+  }
+}
+.vg-icon-musiconhold {
+  &:before {
+    content: $vg-icon-musiconhold;
+  }
+}
+.vg-icon-queue {
+  &:before {
+    content: $vg-icon-queue;
+  }
+}
+.vg-icon-http {
+  &:before {
+    content: $vg-icon-http;
+  }
+}
+.vg-icon-sip-analysis {
+  &:before {
+    content: $vg-icon-sip-analysis;
+  }
+}
+.vg-icon-extension {
+  &:before {
+    content: $vg-icon-extension;
+  }
+}
+.vg-icon-areacode {
+  &:before {
+    content: $vg-icon-areacode;
+  }
+}
+.vg-icon-sounds {
+  &:before {
+    content: $vg-icon-sounds;
+  }
+}
+.vg-icon-variable {
+  &:before {
+    content: $vg-icon-variable;
+  }
+}
+.vg-icon-fixed-mobile {
+  &:before {
+    content: $vg-icon-fixed-mobile;
+  }
+}
+.vg-icon-variabledestination {
+  &:before {
+    content: $vg-icon-variabledestination;
+  }
+}
+.vg-icon-options {
+  &:before {
+    content: $vg-icon-options;
+  }
+}
+.vg-icon-openinghours {
+  &:before {
+    content: $vg-icon-openinghours;
+  }
+}
+.vg-icon-call-record {
+  &:before {
+    content: $vg-icon-call-record;
+  }
+}
+.vg-icon-caller-id {
+  &:before {
+    content: $vg-icon-caller-id;
+  }
+}
+.vg-icon-play-audio {
+  &:before {
+    content: $vg-icon-play-audio;
+  }
+}
+.vg-icon-pause-audio {
+  &:before {
+    content: $vg-icon-pause-audio;
+  }
+}
+.vg-icon-stop-audio {
+  &:before {
+    content: $vg-icon-stop-audio;
+  }
+}
+.vg-icon-arrow-down {
+  &:before {
+    content: $vg-icon-arrow-down;
+  }
+}
+.vg-icon-arrow-up {
+  &:before {
+    content: $vg-icon-arrow-up;
+  }
+}
+.vg-icon-previous {
+  &:before {
+    content: $vg-icon-previous;
+  }
+}
+.vg-icon-next {
+  &:before {
+    content: $vg-icon-next;
+  }
+}
+.vg-icon-backward {
+  &:before {
+    content: $vg-icon-backward;
+  }
+}
+.vg-icon-forward {
+  &:before {
+    content: $vg-icon-forward;
+  }
+}
+.vg-icon-arrow-left {
+  &:before {
+    content: $vg-icon-arrow-left;
+  }
+}
+.vg-icon-arrow-right {
+  &:before {
+    content: $vg-icon-arrow-right;
+  }
+}
+
