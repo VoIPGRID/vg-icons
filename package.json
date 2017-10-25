@@ -21,7 +21,7 @@
     "design"
   ],
   "files": [
-    "fonts/*",
+    "font/*",
     "sass/*.scss",
     "LICENSE"
   ]
