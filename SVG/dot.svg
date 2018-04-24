@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <circle id="dot-a" cx="15" cy="16" r="15"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#2A3042" xlink:href="#dot-a"/>
+  </g>
+</svg>

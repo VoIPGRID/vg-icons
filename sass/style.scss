@@ -3,9 +3,9 @@
 @font-face {
   font-family: 'voipgrid-icons';
   src:
-    url('#{$icomoon-font-path}/voipgrid-icons.ttf?h22uhw') format('truetype'),
-    url('#{$icomoon-font-path}/voipgrid-icons.woff?h22uhw') format('woff'),
-    url('#{$icomoon-font-path}/voipgrid-icons.svg?h22uhw#voipgrid-icons') format('svg');
+    url('#{$icomoon-font-path}/voipgrid-icons.ttf?ufme41') format('truetype'),
+    url('#{$icomoon-font-path}/voipgrid-icons.woff?ufme41') format('woff'),
+    url('#{$icomoon-font-path}/voipgrid-icons.svg?ufme41#voipgrid-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -29,24 +29,34 @@
   @return unquote("\"") + $str + unquote("\"");
 }
 
+.vg-icon-desktop {
+  &:before {
+    content: unicode($vg-icon-desktop); 
+  }
+}
 .vg-icon-desktop-secure {
   &:before {
     content: unicode($vg-icon-desktop-secure); 
   }
 }
-.vg-icon-circle-secure {
+.vg-icon-dot {
   &:before {
-    content: unicode($vg-icon-circle-secure); 
+    content: unicode($vg-icon-dot); 
+  }
+}
+.vg-icon-dot-secure {
+  &:before {
+    content: unicode($vg-icon-dot-secure); 
+  }
+}
+.vg-icon-smartphone {
+  &:before {
+    content: unicode($vg-icon-smartphone); 
   }
 }
 .vg-icon-smartphone-secure {
   &:before {
     content: unicode($vg-icon-smartphone-secure); 
-  }
-}
-.vg-icon-vialer-secure {
-  &:before {
-    content: unicode($vg-icon-vialer-secure); 
   }
 }
 .vg-icon-call-notification {
@@ -57,6 +67,11 @@
 .vg-icon-user {
   &:before {
     content: unicode($vg-icon-user); 
+  }
+}
+.vg-icon-userdestination {
+  &:before {
+    content: unicode($vg-icon-userdestination); 
   }
 }
 .vg-icon-listen {
@@ -357,21 +372,6 @@
 .vg-icon-arrow-right {
   &:before {
     content: unicode($vg-icon-arrow-right); 
-  }
-}
-.vg-icon-desktop {
-  &:before {
-    content: unicode($vg-icon-desktop); 
-  }
-}
-.vg-icon-smartphone {
-  &:before {
-    content: unicode($vg-icon-smartphone); 
-  }
-}
-.vg-icon-circle {
-  &:before {
-    content: unicode($vg-icon-circle); 
   }
 }
 
