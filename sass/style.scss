@@ -3,9 +3,9 @@
 @font-face {
   font-family: 'voipgrid-icons';
   src:
-    url('#{$icomoon-font-path}/voipgrid-icons.ttf?ufme41') format('truetype'),
-    url('#{$icomoon-font-path}/voipgrid-icons.woff?ufme41') format('woff'),
-    url('#{$icomoon-font-path}/voipgrid-icons.svg?ufme41#voipgrid-icons') format('svg');
+    url('#{$icomoon-font-path}/voipgrid-icons.ttf?xbjv2') format('truetype'),
+    url('#{$icomoon-font-path}/voipgrid-icons.woff?xbjv2') format('woff'),
+    url('#{$icomoon-font-path}/voipgrid-icons.svg?xbjv2#voipgrid-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -57,6 +57,11 @@
 .vg-icon-smartphone-secure {
   &:before {
     content: unicode($vg-icon-smartphone-secure); 
+  }
+}
+.vg-icon-hangup {
+  &:before {
+    content: unicode($vg-icon-hangup); 
   }
 }
 .vg-icon-call-notification {

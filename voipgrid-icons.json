@@ -62,6 +62,16 @@
     },
     {
       "paths": [
+        "M750.447 523.798q0-92.090-49.763-168.736l-431.278 430.707q78.363 50.907 169.88 50.907 63.491 0 120.975-24.881t99.24-66.636 66.351-99.811 24.595-121.548zM179.032 694.822l431.851-431.278q-77.218-52.051-171.597-52.051-84.654 0-156.152 41.755t-113.254 113.825-41.755 156.724q0 92.661 50.907 171.024zM878.572 523.798q0 89.802-34.891 171.597t-93.52 140.708-140.137 93.806-170.738 34.891-170.738-34.891-140.137-93.806-93.52-140.708-34.891-171.597 34.891-171.31 93.52-140.423 140.137-93.806 170.738-34.891 170.738 34.891 140.137 93.806 93.52 140.423 34.891 171.31z"
+      ],
+      "grid": 0,
+      "tags": [
+        "hangup"
+      ],
+      "defaultCode": 59665
+    },
+    {
+      "paths": [
         "M750.848 1023.488c-32.768 0-65.536 0.48-98.304-0.16-28.608-0.576-38.624-19.872-24.224-45.024 6.72-11.744 14.336-23.168 19.712-35.52 23.808-54.784-14.144-104.096-51.552-125.856-56.224-32.704-147.712-31.616-199.104 13.536-40.768 35.776-51.584 82.304-24.864 129.984 5.952 10.592 10.72 22.048 14.528 33.632 4.928 15.008-3.424 28.48-18.912 28.608-71.072 0.544-142.4 3.328-213.184-1.184-42.496-2.688-75.968-43.008-78.272-89.152-3.168-62.592-1.44-125.44-0.16-188.16 0.224-10.272 6.784-26.208 14.368-29.088 10.496-3.968 28.128-2.368 36.8 4.416 64.896 50.528 139.296 15.232 166.208-55.456 20.736-54.464 19.072-107.776-9.504-158.56-31.136-55.328-88.96-74.56-146.208-43.2-14.88 8.128-29.152 23.424-47.424 13.344-18.976-10.464-14.944-31.072-15.008-48.96-0.064-29.984 1.376-60.032-0.288-89.92-3.104-55.392 46.4-108.32 106.016-105.632 56.384 2.464 112.928 0.48 169.408 0.544 14.080 0 26.912-0.352 35.776-15.104 9.312-15.488-1.792-26.208-6.24-38.144-5.952-15.968-17.44-30.368-20.896-46.656-8.928-42.304 21.28-90.56 60.704-110.048 41.792-20.64 84.192-27.52 129.088-16.48 54.016 13.312 93.184 40.48 105.728 99.328 5.632 26.464-9.152 48.672-20.672 71.52-6.048 12-12.384 28.192-8.992 39.648 4.768 16.064 23.424 16.224 39.168 16.128 55.072-0.256 110.208 1.344 165.184-0.608 67.456-2.368 107.424 50.304 107.392 107.904-0.032 31.36 1.76 62.848-0.448 94.048-1.056 14.784-5.632 33.6-15.744 42.368-13.344 11.552-29.76-0.224-43.296-9.632-48.128-33.504-109.792-22.816-145.216 32.288-41.952 65.28-39.296 150.816 15.584 211.168 33.984 37.344 82.56 44.704 125.664 18.112 15.68-9.664 34.24-23.744 49.024-11.456 10.656 8.832 13.568 30.912 14.112 47.296 1.6 50.848-0.128 101.76 0.48 152.64 0.704 56.096-38.88 112.16-107.040 107.808-26.336-1.728-52.896-0.32-79.392-0.32z"
       ],
       "grid": 0,
@@ -705,7 +715,7 @@
       "width": 32,
       "height": 32
     },
-    "iconsHash": 868643214
+    "iconsHash": 313094409
   },
   "preferences": {
     "showGlyphs": true,
@@ -758,401 +768,407 @@
   },
   "selection": [
     {
-      "order": 107,
+      "order": 3,
       "name": "desktop",
       "prevSize": 26
     },
     {
-      "order": 108,
+      "order": 4,
       "name": "desktop-secure",
       "prevSize": 26
     },
     {
-      "order": 109,
+      "order": 5,
       "name": "dot",
       "prevSize": 26
     },
     {
-      "order": 110,
+      "order": 6,
       "name": "dot-secure",
       "prevSize": 26
     },
     {
-      "order": 111,
+      "order": 7,
       "name": "smartphone",
       "prevSize": 26
     },
     {
-      "order": 112,
+      "order": 8,
       "name": "smartphone-secure",
       "prevSize": 26
     },
     {
-      "order": 113,
+      "order": 71,
+      "ligatures": "",
+      "prevSize": 26,
+      "name": "hangup"
+    },
+    {
+      "order": 9,
       "name": "call-notification",
       "prevSize": 26
     },
     {
-      "order": 176,
+      "order": 10,
       "prevSize": 26,
       "name": "user, userdestination"
     },
     {
-      "order": 115,
+      "order": 11,
       "ligatures": "",
       "prevSize": 26,
       "name": "listen"
     },
     {
-      "order": 116,
+      "order": 12,
       "ligatures": "",
       "prevSize": 26,
       "name": "filter"
     },
     {
-      "order": 117,
+      "order": 13,
       "ligatures": "",
       "prevSize": 26,
       "name": "fixeddestination"
     },
     {
-      "order": 118,
+      "order": 14,
       "ligatures": "",
       "prevSize": 26,
       "name": "jump"
     },
     {
-      "order": 119,
+      "order": 15,
       "ligatures": "",
       "prevSize": 26,
       "name": "calender"
     },
     {
-      "order": 120,
+      "order": 16,
       "ligatures": "",
       "prevSize": 26,
       "name": "call-person"
     },
     {
-      "order": 121,
+      "order": 17,
       "ligatures": "",
       "prevSize": 26,
       "name": "case"
     },
     {
-      "order": 122,
+      "order": 18,
       "ligatures": "",
       "prevSize": 26,
       "name": "click-to-dial"
     },
     {
-      "order": 123,
+      "order": 19,
       "ligatures": "",
       "prevSize": 26,
       "name": "clipboard"
     },
     {
-      "order": 124,
+      "order": 20,
       "ligatures": "",
       "prevSize": 26,
       "name": "conference"
     },
     {
-      "order": 125,
+      "order": 21,
       "ligatures": "",
       "prevSize": 26,
       "name": "callgroup"
     },
     {
-      "order": 126,
+      "order": 22,
       "ligatures": "",
       "prevSize": 26,
       "name": "fax"
     },
     {
-      "order": 127,
+      "order": 23,
       "ligatures": "",
       "prevSize": 26,
       "name": "outgoing-fax"
     },
     {
-      "order": 128,
+      "order": 24,
       "ligatures": "",
       "prevSize": 26,
       "name": "crm-popup"
     },
     {
-      "order": 129,
+      "order": 25,
       "ligatures": "",
       "prevSize": 26,
       "name": "folder-in"
     },
     {
-      "order": 130,
+      "order": 26,
       "ligatures": "",
       "prevSize": 26,
       "name": "home"
     },
     {
-      "order": 131,
+      "order": 27,
       "ligatures": "",
       "prevSize": 26,
       "name": "mail"
     },
     {
-      "order": 132,
+      "order": 28,
       "ligatures": "",
       "prevSize": 26,
       "name": "areagroup"
     },
     {
-      "order": 133,
+      "order": 29,
       "ligatures": "",
       "prevSize": 26,
       "name": "setcallrecording"
     },
     {
-      "order": 134,
+      "order": 30,
       "ligatures": "",
       "prevSize": 26,
       "name": "notition"
     },
     {
-      "order": 135,
+      "order": 31,
       "ligatures": "",
       "prevSize": 26,
       "name": "ivr"
     },
     {
-      "order": 136,
+      "order": 32,
       "ligatures": "",
       "prevSize": 26,
       "name": "paperclip"
     },
     {
-      "order": 137,
+      "order": 33,
       "ligatures": "",
       "prevSize": 26,
       "name": "person"
     },
     {
-      "order": 138,
+      "order": 34,
       "ligatures": "",
       "prevSize": 26,
       "name": "phone-dial-buttons"
     },
     {
-      "order": 139,
+      "order": 35,
       "ligatures": "",
       "prevSize": 26,
       "name": "phone-rings"
     },
     {
-      "order": 140,
+      "order": 36,
       "ligatures": "",
       "prevSize": 26,
       "name": "pick-up-group"
     },
     {
-      "order": 141,
+      "order": 37,
       "ligatures": "",
       "prevSize": 26,
       "name": "phone-mobile"
     },
     {
-      "order": 142,
+      "order": 38,
       "ligatures": "",
       "prevSize": 26,
       "name": "recording"
     },
     {
-      "order": 143,
+      "order": 39,
       "ligatures": "",
       "prevSize": 26,
       "name": "sound"
     },
     {
-      "order": 144,
+      "order": 40,
       "ligatures": "",
       "prevSize": 26,
       "name": "tag"
     },
     {
-      "order": 145,
+      "order": 41,
       "ligatures": "",
       "prevSize": 26,
       "name": "variablecallername"
     },
     {
-      "order": 146,
+      "order": 42,
       "ligatures": "",
       "prevSize": 26,
       "name": "trashcan"
     },
     {
-      "order": 147,
+      "order": 43,
       "ligatures": "",
       "prevSize": 26,
       "name": "voicemail"
     },
     {
-      "order": 148,
+      "order": 44,
       "ligatures": "",
       "prevSize": 26,
       "name": "phoneaccount"
     },
     {
-      "order": 149,
+      "order": 45,
       "ligatures": "",
       "prevSize": 26,
       "name": "trunkaccount"
     },
     {
-      "order": 150,
+      "order": 46,
       "ligatures": "",
       "prevSize": 26,
       "name": "musiconhold"
     },
     {
-      "order": 151,
+      "order": 47,
       "ligatures": "",
       "prevSize": 26,
       "name": "queue"
     },
     {
-      "order": 152,
+      "order": 48,
       "ligatures": "",
       "prevSize": 26,
       "name": "http"
     },
     {
-      "order": 153,
+      "order": 49,
       "ligatures": "",
       "prevSize": 26,
       "name": "sip-analysis"
     },
     {
-      "order": 154,
+      "order": 50,
       "ligatures": "",
       "prevSize": 26,
       "name": "extension"
     },
     {
-      "order": 155,
+      "order": 51,
       "ligatures": "",
       "prevSize": 26,
       "name": "areacode"
     },
     {
-      "order": 156,
+      "order": 52,
       "ligatures": "",
       "prevSize": 26,
       "name": "sounds"
     },
     {
-      "order": 157,
+      "order": 53,
       "ligatures": "",
       "prevSize": 26,
       "name": "variable"
     },
     {
-      "order": 158,
+      "order": 54,
       "ligatures": "",
       "prevSize": 26,
       "name": "fixed-mobile"
     },
     {
-      "order": 159,
+      "order": 55,
       "ligatures": "",
       "prevSize": 26,
       "name": "variabledestination"
     },
     {
-      "order": 160,
+      "order": 56,
       "ligatures": "",
       "prevSize": 26,
       "name": "options"
     },
     {
-      "order": 161,
+      "order": 57,
       "ligatures": "",
       "prevSize": 26,
       "name": "openinghours"
     },
     {
-      "order": 162,
+      "order": 58,
       "ligatures": "",
       "prevSize": 26,
       "name": "call-record"
     },
     {
-      "order": 163,
+      "order": 59,
       "ligatures": "",
       "prevSize": 26,
       "name": "caller-id"
     },
     {
-      "order": 164,
+      "order": 60,
       "ligatures": "",
       "prevSize": 26,
       "name": "play-audio"
     },
     {
-      "order": 165,
+      "order": 61,
       "ligatures": "",
       "prevSize": 26,
       "name": "pause-audio"
     },
     {
-      "order": 166,
+      "order": 62,
       "ligatures": "",
       "prevSize": 26,
       "name": "stop-audio"
     },
     {
-      "order": 167,
+      "order": 63,
       "ligatures": "",
       "prevSize": 26,
       "name": "arrow-down"
     },
     {
-      "order": 168,
+      "order": 64,
       "ligatures": "",
       "prevSize": 26,
       "name": "arrow-up"
     },
     {
-      "order": 169,
+      "order": 65,
       "ligatures": "",
       "prevSize": 26,
       "name": "previous"
     },
     {
-      "order": 170,
+      "order": 66,
       "ligatures": "",
       "prevSize": 26,
       "name": "next"
     },
     {
-      "order": 171,
+      "order": 67,
       "ligatures": "",
       "prevSize": 26,
       "name": "backward"
     },
     {
-      "order": 172,
+      "order": 68,
       "ligatures": "",
       "prevSize": 26,
       "name": "forward"
     },
     {
-      "order": 173,
+      "order": 69,
       "ligatures": "",
       "prevSize": 26,
       "name": "arrow-left"
     },
     {
-      "order": 174,
+      "order": 70,
       "ligatures": "",
       "prevSize": 26,
       "name": "arrow-right"
