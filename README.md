@@ -1,3 +1,7 @@
+!!! Note
+This repo has been moved! https://gitlab.wearespindle.com/voipgrid/vg-icons
+
+
 This is the icon pack as used on the VoIPGRID platform.
 
 # Install
